@@ -20,3 +20,11 @@ I am a Data Scientist <img src="https://media.giphy.com/media/OJw4CDbtu0jde/giph
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
 </div>
+
+
+Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных" / "Специалист по Data Science".
+
+| Название проекта | Описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- | :---------------------- |
+| [Прогнозирование оттока клиента Банка
+](bank_customers) | Основываясь на данных, определить уйдет ли клиент из банка или нет.| *pandas, matplotlib, scikit-learn, lightgbm* |
