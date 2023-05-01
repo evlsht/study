@@ -26,5 +26,4 @@ I am a Data Scientist <img src="https://media.giphy.com/media/OJw4CDbtu0jde/giph
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Прогнозирование оттока клиента Банка
-](bank_customers) | Основываясь на данных, определить уйдет ли клиент из банка или нет.| *pandas, matplotlib, scikit-learn, lightgbm* |
+| [Прогнозирование оттока клиента Банка](https://github.com/evlsht/study/tree/main/bank_customers) | Основываясь на данных, определить уйдет ли клиент из банка или нет.| *pandas, matplotlib, scikit-learn, lightgbm* |
