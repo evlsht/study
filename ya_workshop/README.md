@@ -16,4 +16,5 @@ pandas, scikit-learn, matplotlib, lightgbm, catboost
 - проведены предсказания с помощью LightGBM и Catboost
 
   Для финального теста был выбран градиентный бустинг(LightGBM).
+  
   <b>Результат:</b> Модель показала неплохую метрику.
